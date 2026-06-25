@@ -23,6 +23,11 @@ let person={
 
 let cars=["mercedenz benz","BMW","ferrari","cardilac","XUV"];
 
+//null 
+
+let contact=null;
+console.log(contact);
+
 console.log(name);
 console.log(age);
 console.log(vision);
