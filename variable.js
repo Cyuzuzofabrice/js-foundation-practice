@@ -28,6 +28,10 @@ let cars=["mercedenz benz","BMW","ferrari","cardilac","XUV"];
 let contact=null;
 console.log(contact);
 
+let dance="Afro dance";
+
+console.log(dance);
+
 console.log(name);
 console.log(age);
 console.log(vision);
