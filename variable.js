@@ -1,10 +1,11 @@
 // variables with datatype of string
 
-let name="cyuzuzo fabrice";
+const name="cyuzuzo fabrice";
 
 //variable with datatype of number
 
 let age=20;
+const dob="2/4/2006 "
 
 //variable with datatype of boolean
 
